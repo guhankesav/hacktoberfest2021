@@ -17,7 +17,7 @@ You can sign up anytime between October 1 and October 31.
 
 Let's make a contribution to this repository.
 
-<p><a href="https://hacktoberfest.digitalocean.com?wvideo=rrnq2hxoso"><img src="https://github.com/pratiksh404/nepactober/blob/main/guide_video.jpg" width="800" height="600" style="width: 800px; height: 400px;"></a></p><p><a href="https://hacktoberfest.digitalocean.com?wvideo=rrnq2hxoso">Hacktoberfest presented by DigitalOcean</a></p>
+
 
 # Contribution guideline
 
